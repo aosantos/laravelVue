@@ -1,0 +1,3 @@
+Instalação do jwt 
+
+composer require tymon/jwt-auth:dev-develop  --prefer-source
